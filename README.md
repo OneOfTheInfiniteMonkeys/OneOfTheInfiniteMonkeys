@@ -9,6 +9,7 @@
    
 - ⚡ Fun fact:
    - I enjoy documenting my code.
+   - My first computer had 246 bytes of RAM.
   
 - A few of the tools I use:  
   <img src="https://img.shields.io/badge/C->1.0-blue"/>
