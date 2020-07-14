@@ -23,7 +23,8 @@
 
 
   
-<!--  https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> -->
+<!-- https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> -->
+<!-- See https://github.com/8bithemant -->
 <!--
 **OneOfTheInfiniteMonkeys/OneOfTheInfiniteMonkeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
