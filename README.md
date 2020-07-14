@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/C->1.0-blue"/>
   <img src="https://img.shields.io/badge/Assembler->1.0-blue"/>
   <img src="https://img.shields.io/badge/HTML->1.0-blue"/>
+  <img src="https://img.shields.io/badge/CSS->1.0-blue"/>
   <img src="https://img.shields.io/badge/Javascript->1.0-blue"/>
   <img src="https://img.shields.io/badge/Ajax->1.0-blue"/>
   <img src="https://img.shields.io/badge/PHP->5.0-blue"/>
