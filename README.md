@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
+   - Adafruit Magtag <a href="https://github.com/OneOfTheInfiniteMonkeys/MTMP">Macro keypad</a>
+   - An Adafruit Magtag CircuitPython project connected via JSON to a server PHP backend
    - Raspberry Pi '<a href="https://github.com/OneOfTheInfiniteMonkeys/moreinfo">More Info</a>' a tool to aid managing legacy Raspberry Pi's and installs.
-   - PiZero-Wu a Raspberry Pi memory key configuration with intergrated sewing file viewer and management tools.
+
    
 - 🤔 I’m looking for help with:
    -  Raspberry Pi Id's that might not be listed in '<a href="https://github.com/OneOfTheInfiniteMonkeys/moreinfo">More Info</a>'
