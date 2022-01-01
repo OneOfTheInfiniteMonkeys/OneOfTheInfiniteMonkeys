@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-   - Adafruit Magtag <a href="https://github.com/OneOfTheInfiniteMonkeys/MTMP">Macro keypad</a>
    - An Adafruit Magtag CircuitPython project connected via JSON to a server PHP backend
-   - Raspberry Pi '<a href="https://github.com/OneOfTheInfiniteMonkeys/moreinfo">More Info</a>' a tool to aid managing legacy Raspberry Pi's and installs.
+   - '<a href="https://github.com/OneOfTheInfiniteMonkeys/sdinfo">sdinfo</a>' a BASH script tool to aid identification and management of SD cards.
 
    
 - 🤔 I’m looking for help with:
-   -  Raspberry Pi Id's that might not be listed in '<a href="https://github.com/OneOfTheInfiniteMonkeys/moreinfo">More Info</a>'
+   -  SDCard Id's that might not be listed in '<a href="https://github.com/OneOfTheInfiniteMonkeys/sdinfo" target="_blank">sdinfo</a>'
+   -  Raspberry Pi Id's that might not be listed in '<a href="https://github.com/OneOfTheInfiniteMonkeys/moreinfo" target="_blank">More Info</a>'
+   
    
 - ⚡ Fun fact:
    - I enjoy documenting my code.
