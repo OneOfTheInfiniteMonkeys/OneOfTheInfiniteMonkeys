@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-   - An Adafruit Magtag CircuitPython (Temperature) data logger project 
+   - An Adafruit Magtag CircuitPython (Temperature) <a href="https://github.com/OneOfTheInfiniteMonkeys/MTDL">data logger project</a>  
    - '<a href="https://github.com/OneOfTheInfiniteMonkeys/sdinfo">sdinfo</a>' a BASH script tool to aid identification and management of SD cards.
 
    
